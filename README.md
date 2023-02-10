@@ -8,5 +8,5 @@ it is a wordle game which takes the concept of 4 pic 1 word  and uses it to rede
 
 i hope you enjoy it.
 
-# DOWNLOAD LINK : [ANIMATION WORD APP FOR ANDROID](https://github.com/Colin-Stark/animation_word/blob/main/animationword.apk) #
+# DOWNLOAD LINK # : [ANIMATION WORD APP FOR ANDROID](https://raw.githubusercontent.com/Colin-Stark/animation_word/main/animationword.apk)
 
